@@ -16,8 +16,8 @@
             </array>
             <key>metadata</key>
             <dict>
-                <key>com.xiangyang.game</key>
-				<string>请填上你的开发者证书用户名</string>
+                <key>bundle-identifier</key>
+		<string>com.xiangyang.game</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
